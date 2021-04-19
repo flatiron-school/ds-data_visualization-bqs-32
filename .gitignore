@@ -130,3 +130,6 @@ dmypy.json
 
 # Newly created images
 images/parabola.png
+
+# Mac OS
+.DS_Store
