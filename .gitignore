@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Newly created images
+images/parabola.png
+
+# Mac OS
+.DS_Store
